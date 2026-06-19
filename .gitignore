@@ -1,0 +1,10 @@
+# Bases EPH descargadas
+usu_individual_T216_a_T425/
+zips_eph/
+
+# CSV generados por el notebook
+*.csv
+
+# Checkpoints/cache
+.ipynb_checkpoints/
+__pycache__/
